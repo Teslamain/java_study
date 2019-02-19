@@ -1,1 +1,11 @@
 # java_study
+------------
+
+```
+#intclude<stdio.h>
+int main()
+{
+  printf("hello world");
+  return 0;
+}
+```
